@@ -7,3 +7,4 @@ Assumes you are a Microsoft Windows operating system.
 2) Copy the all the contents into that folder.
 3) Run the EXE.
 
+![image](https://user-images.githubusercontent.com/2171474/190936370-efca9e95-bbd1-45cc-8801-2bfa600bcc86.png)
