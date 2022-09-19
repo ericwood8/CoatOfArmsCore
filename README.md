@@ -14,4 +14,5 @@ When you are done, you should see the following directory structure:
 ![image](https://user-images.githubusercontent.com/2171474/190937120-49008352-c17f-4ec4-a456-707ea03577f6.png)
 
 Example Coat-of-Arms created:
+
 ![image](https://user-images.githubusercontent.com/2171474/190936370-efca9e95-bbd1-45cc-8801-2bfa600bcc86.png)
